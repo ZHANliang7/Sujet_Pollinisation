@@ -32,13 +32,21 @@ header{
       text-align: center;
   }
 
+  .center {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  .center video {
+    width : 100%;
+  }
 
   .next {
     list-style-type: none;
     position: absolute;
     top : 40%;
     transform: translateY(-50%);
-    right: -8%;
+    right: -62px;
   }
 
   .prev {
