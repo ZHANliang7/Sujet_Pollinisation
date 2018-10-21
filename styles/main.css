@@ -46,17 +46,17 @@ header{
     position: absolute;
     top : 40%;
     transform: translateY(-50%);
-    right: -62px;
+    right: 80px;
   }
 
   .prev {
     list-style-type: none;
     position: absolute;
-    top : 36%;
+    top : 40%;
     transform: translateY(-50%);
-    transform: translateX(20%);
-
+    left: 70px;
   }
+
 
 
 p {
